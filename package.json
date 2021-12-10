@@ -6,7 +6,8 @@
   "dependencies": {
     "apollo-server-express": "^3.5.0",
     "graphql": "^16.0.1",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "react-router-dom": "^5.3.0"
   },
   "devDependencies": {
     "concurrently": "^6.4.0"
